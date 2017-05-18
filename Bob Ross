@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Bob Ross Simulator 1.0</title>
+
+<script src= "Bob_Ross.js">
+</head>
+<body>
+<h1>Welcome To Bob Ross Simulator 1.0!</h1>
+
+<p> “Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things”</p>
+
+<p><em>—From "The Joy of Painting"</em></p>
+
+</body>
+
+<script src= "Bob_Ross.js">
+
+</html>
